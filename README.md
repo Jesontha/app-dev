@@ -1,4 +1,4 @@
-# app-dev
+app-dev
 My first repository
 ## Power Rangers
 ***Power Rangers is an entertainment and merchandising franchise built around a live-action superhero television series, based on the Japanese tokusatsu franchise Super Sentai.***
